@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:PunicaHealth"
+             x:Class="PunicaHealth.MDPMaster"
+             BackgroundColor="#f0f0f0"
+			 IconImageSource="hamburger.png"
+             Title="Menu">
+    <StackLayout>
+        <ListView x:Name="listView" x:FieldModifier="public"
+                  RowHeight="60">
+            <ListView.ItemsSource>
+                <x:Array Type="{x:Type local:MasterMenuItem}">
+                    <local:MasterMenuItem Title="Details" Icon="mdp_details.png" TargetType="{x:Type local:DetailsPage}" />
+                </x:Array>
+            </ListView.ItemsSource>
+            <ListView.Header>
+                <StackLayout Padding="0,50" Spacing="10">
+                    <Frame Padding="0" BorderColor="DarkGray" CornerRadius="10"
+                           HeightRequest="75" WidthRequest="75"  
+                           IsClippedToBounds="True" HorizontalOptions="Center">
+                        <Image Source="avatar.png" Aspect="AspectFill"/>
+                    </Frame>
+                    <Label Text="Name Surname" FontSize="24" TextColor="Black" HorizontalOptions="Center"/>
+                </StackLayout>
+            </ListView.Header>
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout VerticalOptions="FillAndExpand"
+                                     Orientation="Horizontal"
+                                     Padding="20,10,0,10"
+                                     Spacing="20">
+
+                            <Image Source="{Binding Icon}" WidthRequest="20"
+                                       HeightRequest="20" VerticalOptions="Center" />
+                            <Label Text="{Binding Title}" FontSize="16"
+                                       VerticalOptions="Center" TextColor="Black"/>
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <Frame Margin="0" Padding="0" BackgroundColor="Transparent">
+            <StackLayout Orientation="Horizontal" Padding="20,10,0,10" Spacing="20" HeightRequest="60">
+                <Image Source="mdp_login.png" VerticalOptions="Center"
+                             WidthRequest="20" HeightRequest="20"/>
+                <Label Text="Logout" VerticalOptions="Center" FontSize="16" TextColor="Black"/>
+            </StackLayout>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer NumberOfTapsRequired="1" Tapped="LogoutClicked"/>
+            </Frame.GestureRecognizers>
+        </Frame>
+       
+    </StackLayout>
+</ContentPage>

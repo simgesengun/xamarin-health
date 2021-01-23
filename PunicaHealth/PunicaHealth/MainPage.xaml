@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:tabs="clr-namespace:Sharpnado.Tabs;assembly=Sharpnado.Tabs"
+             xmlns:views="clr-namespace:PunicaHealth.Views"
+             xmlns:sh="clr-namespace:Sharpnado.Shades;assembly=Sharpnado.Shadows"
+             x:Class="PunicaHealth.MainPage"
+             Title="">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="BottomTabStyle" TargetType="tabs:BottomTabItem">
+                <Setter Property="IsTextVisible" Value="False" />
+                <Setter Property="IconSize" Value="36" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+
+        <Grid RowDefinitions="*,50" x:Name="GridContainer"
+              RowSpacing="0"
+              ColumnSpacing="0">
+            <tabs:ViewSwitcher x:Name="Switcher"
+                       Grid.Row="0"
+                       Animate="False"
+                       SelectedIndex="{Binding SelectedViewModelIndex, 
+                                               Mode=TwoWay}">
+                <views:Home BindingContext="{Binding Home}" />
+                <views:Search BindingContext="{Binding Search}" />
+                <views:Health BindingContext="{Binding Health}" />
+                <views:User BindingContext="{Binding User}" />
+            </tabs:ViewSwitcher>
+            <sh:Shadows Grid.Row="1" Shades="{sh:SingleShade Offset='0, -2',
+                                    Opacity=0.7,
+                                    Color=DarkGray}">
+                <tabs:TabHostView x:Name="TabHost"
+                              Grid.Row="1" BackgroundColor="{x:DynamicResource MainWhite}"
+                              SelectedIndex="{Binding Source={x:Reference Switcher}, Path=SelectedIndex, Mode=TwoWay}"
+                              TabType="Fixed">
+                    <tabs:TabHostView.Tabs>
+                        <tabs:BottomTabItem Style="{StaticResource BottomTabStyle}"
+                                        IconImageSource="tabview_home.png"
+                                        x:Name="Home" >
+                            <tabs:BottomTabItem.Triggers>
+                                <Trigger TargetType="tabs:BottomTabItem" Property="IsSelected" Value="true">
+                                    <Setter Property="IconImageSource" Value="tabview_home_active.png" />
+                                </Trigger>
+                            </tabs:BottomTabItem.Triggers>
+                        </tabs:BottomTabItem>
+
+                        <tabs:BottomTabItem Style="{StaticResource BottomTabStyle}"
+                                        IconImageSource="tabview_search.png" 
+                                        x:Name="Search" >
+                            <tabs:BottomTabItem.Triggers>
+                                <Trigger TargetType="tabs:BottomTabItem" Property="IsSelected" Value="true">
+                                    <Setter Property="IconImageSource" Value="tabview_search_active.png" />
+                                </Trigger>
+                            </tabs:BottomTabItem.Triggers>
+                        </tabs:BottomTabItem>
+
+                        <tabs:TabButton  x:Name="addButton"
+                                     ButtonCircleSize="50" IconImageSource="add.png"
+                                     Scale="1.3" TranslationY="-20" Clicked="addButtonClicked"/>
+
+                        <tabs:BottomTabItem Style="{StaticResource BottomTabStyle}"
+                                        IconImageSource="tabview_health.png"
+                                        x:Name="Health" >
+                            <tabs:BottomTabItem.Triggers>
+                                <Trigger TargetType="tabs:BottomTabItem" Property="IsSelected" Value="true">
+                                    <Setter Property="IconImageSource" Value="tabview_health_active.png" />
+                                </Trigger>
+                            </tabs:BottomTabItem.Triggers>
+                        </tabs:BottomTabItem>
+
+                        <tabs:BottomTabItem Style="{StaticResource BottomTabStyle}"
+                                        IconImageSource="tabview_user.png"
+                                        x:Name="User" >
+                            <tabs:BottomTabItem.Triggers>
+                                <Trigger TargetType="tabs:BottomTabItem" Property="IsSelected" Value="true">
+                                    <Setter Property="IconImageSource" Value="tabview_user_active.png" />
+                                </Trigger>
+                            </tabs:BottomTabItem.Triggers>
+                        </tabs:BottomTabItem>
+                    </tabs:TabHostView.Tabs>
+                </tabs:TabHostView>
+            </sh:Shadows>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PunicaHealth.Views.Specialists"
+             Title="Visit a specialists">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="ListButton" TargetType="Button">
+                <Setter Property="WidthRequest" Value="50"/>
+                <Setter Property="VerticalOptions" Value="Center"/>
+                <Setter Property="HorizontalOptions" Value="EndAndExpand"/>
+                <Setter Property="BackgroundColor" Value="LightGray"/>
+                <Setter Property="FontSize" Value="12"/>
+                <Setter Property="CornerRadius" Value="15"/>
+                <Setter Property="HeightRequest" Value="40"/>
+                <Setter Property="WidthRequest" Value="60"/>
+            </Style>
+            <Style x:Key="PicFrame" TargetType="Frame">
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="BorderColor" Value="#303030"/>
+                <Setter Property="CornerRadius" Value="15"/>
+                <Setter Property="HeightRequest" Value="60"/>
+                <Setter Property="WidthRequest" Value="60"/>
+                <Setter Property="IsClippedToBounds" Value="True"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <StackLayout Padding="20,10" Spacing="10">
+            <Label Text="The list of specialists you can have an appointment"
+                   TextColor="black" FontSize="16"/>
+            <ListView x:Name="listView" RowHeight="100" SelectionMode="None">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid ColumnDefinitions="60,*,60" ColumnSpacing="10" VerticalOptions="Center" Padding="5,0">
+                                <Frame Style="{StaticResource PicFrame}" VerticalOptions="Center">
+                                    <Image Grid.Column="0" Source="{Binding Img}" Aspect="AspectFit"/>
+                                </Frame>
+                                <StackLayout Grid.Column="1" HorizontalOptions="Start">
+                                    <Label TextColor="black" Text="{Binding Type}"  FontSize="14"/>
+                                    <Label Text="{Binding Name}" FontSize="16" />
+                                    <Image Source="{Binding Detail}" HeightRequest="20"/>
+                                </StackLayout>
+                                <Button Grid.Column="2" Clicked="buttonClicked" Style="{StaticResource ListButton}" Text="{Binding Button}" CommandParameter="{Binding .}" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

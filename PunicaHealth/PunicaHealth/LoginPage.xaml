@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:sh="clr-namespace:Sharpnado.Shades;assembly=Sharpnado.Shadows"
+             x:Class="PunicaHealth.LoginPage"
+             Title="LoginPage"
+             NavigationPage.HasNavigationBar="false">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="EntryFrame" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="White"/>
+                <Setter Property="BorderColor" Value="DarkGray"/>
+                <Setter Property="Margin" Value="0,20,0,0"/>
+                <Setter Property="HeightRequest" Value="50"/>
+                <Setter Property="CornerRadius" Value="20"/>
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+            </Style>
+            <Style x:Key="Entry" TargetType="Entry">
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+                <Setter Property="ClearButtonVisibility" Value="WhileEditing"/>
+                <Setter Property="IsSpellCheckEnabled" Value="False"/>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <ScrollView>
+            <Grid Padding="30,70,30,70" RowDefinitions="*,auto,auto,auto,auto" RowSpacing="20" ColumnSpacing="1" BackgroundColor="White">
+                <Image Grid.Row="0" Source="main.jpg"
+                       HeightRequest="250"
+                       HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+
+                <StackLayout Grid.Row="1" HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+                    <Label HorizontalTextAlignment="Center"
+                           Text="Login" FontSize="38" TextColor="Black"/>
+                    <Label HorizontalTextAlignment="Center"
+                           Text="Enter your login details to access your account"/>
+                </StackLayout>
+                <Frame Grid.Row="2" Style="{StaticResource EntryFrame}">
+                    <StackLayout Orientation="Horizontal" Padding="15,0">
+                        <Entry x:Name="emailEntry" Style="{StaticResource Entry}"
+                               Keyboard="Email" Placeholder="Email" TextChanged="emailCheck"
+                               TextTransform="Lowercase"  ReturnType="Next"/>
+                        <ImageButton x:Name="emailImg" BackgroundColor="Transparent"
+                                     HorizontalOptions="End" WidthRequest="35" Source="check.png"/>
+                    </StackLayout>
+                </Frame>
+
+                <Frame Grid.Row="3" Style="{StaticResource EntryFrame}">
+                    <StackLayout Orientation="Horizontal" Padding="15,0">
+                        <Entry x:Name="passwordEntry" Style="{StaticResource Entry}"
+                               IsPassword="true" Placeholder="Password"
+                               ReturnType="Done"/>
+                        <ImageButton x:Name="passwordImg" BackgroundColor="Transparent"
+                                     HorizontalOptions="End" WidthRequest="35"
+                                     Source="password_hide.png" Clicked="passwordEye"/>
+                    </StackLayout>
+                </Frame>
+                <StackLayout Grid.Row="4" VerticalOptions="EndAndExpand">
+                    <Button x:Name="LoginButton" Text="LOGIN" TextColor="white" Clicked="OnLoginButtonClicked"
+                            CornerRadius="23" HeightRequest="50"  BackgroundColor="{x:DynamicResource MainRed}"/>
+
+                    <StackLayout Orientation="Horizontal" HorizontalOptions="End">
+                        <Label Text="Not registered?"/>
+                        <Label x:Name="SignUp" Text="Sign Up Here!" TextColor="{x:DynamicResource MainRed}">
+                            <Label.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnSignUpButtonClicked" NumberOfTapsRequired="1" />
+                            </Label.GestureRecognizers>
+                        </Label>
+                    </StackLayout>
+                </StackLayout>
+            </Grid>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

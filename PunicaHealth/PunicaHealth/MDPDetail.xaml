@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PunicaHealth.MDPDetail"
+             xmlns:pages="clr-namespace:PunicaHealth">
+    <MasterDetailPage.Master>
+        <pages:MDPMaster x:Name="MDPMaster"/>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <NavigationPage x:Name="MainPage">
+            <x:Arguments>
+                <pages:MainPage/>
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>

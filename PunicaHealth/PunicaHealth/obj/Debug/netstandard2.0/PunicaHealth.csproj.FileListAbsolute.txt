@@ -1,0 +1,70 @@
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\DetailsPage.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\MDPDetail.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\MDPMaster.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\Health.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\Search.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\User.xaml.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.AssemblyInfoInputs.cache
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.AssemblyInfo.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.csproj.CoreCompileInputs.cache
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.csprojAssemblyReference.cache
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\PunicaHealth.deps.json
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\PunicaHealth.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\ref\PunicaHealth.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\PunicaHealth.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\XamlC.stamp
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\ref\PunicaHealth.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.pdb
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\PunicaHealth.deps.json
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\PunicaHealth.dll
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\ref\PunicaHealth.dll
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\PunicaHealth.pdb
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.csprojAssemblyReference.cache
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\DetailsPage.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\MDPDetail.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\MDPMaster.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\Health.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\Search.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\User.xaml.g.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.AssemblyInfoInputs.cache
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.AssemblyInfo.cs
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.csproj.CoreCompileInputs.cache
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\XamlC.stamp
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.dll
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\ref\PunicaHealth.dll
+D:\_coding\GitHub\assignment-2-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\PunicaHealth.deps.json
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\PunicaHealth.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\ref\PunicaHealth.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\bin\Debug\netstandard2.0\PunicaHealth.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\DetailsPage.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\MDPDetail.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\MDPMaster.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\Health.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\Search.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\Specialists.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\Views\User.xaml.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.AssemblyInfoInputs.cache
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.AssemblyInfo.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.csproj.CoreCompileInputs.cache
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\XamlC.stamp
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\ref\PunicaHealth.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth\obj\Debug\netstandard2.0\PunicaHealth.csprojAssemblyReference.cache

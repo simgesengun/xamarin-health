@@ -1,0 +1,185 @@
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\PunicaHealth.UWP.csprojAssemblyReference.cache
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\App.g.i.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\App.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\MainPage.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\App.xaml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\MainPage.xaml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\App.xbf
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\MainPage.xbf
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CarouselView.FormsPlugin.UWP\CarouselView.FormsPlugin.UWP.xr.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\App.xbf
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\MainPage.xbf
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.UWP.xr.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.UWP.exe
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.UWP.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\resources.pri
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\AppxManifest.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Core\PunicaHealth.UWP.exe
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.UWP.build.appxrecipe
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CarouselView.FormsPlugin.Abstractions.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CarouselView.FormsPlugin.UWP.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CompositionDeviceHelper.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CompositionDeviceHelper.winmd
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CompositionProToolkit.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\FluentValidation.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\System.Runtime.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Shadows.UWP.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Shadows.UWP.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Shadows.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Shadows.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Tabs.UWP.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Tabs.UWP.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Tabs.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Tabs.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.TaskMonitor.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\SQLite-net.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\e_sqlite3.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\WeakEvent.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\WeakEvent.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xam.Plugin.TabView.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.dll
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\PunicaHealth.UWP.csproj.CoreCompileInputs.cache
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\PunicaHealth.UWP.csproj.CopyComplete
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\CarouselView.FormsPlugin.UWP.pri.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\CompositionDeviceHelper.pri.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\CompositionProToolkit.pri.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\PunicaHealth.UWP.exe
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\PunicaHealth.UWP.pdb
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\priconfig.xml
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\resources.resfiles
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\pri.resfiles
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\qualifiers.txt
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\.winmd_cache\$CompositionDeviceHelper.winmd_637239255440000000.json
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214426760000000.json
+D:\_okul\4.1\Mobile Programming I\PunicaHealth\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112498540000000.json
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CarouselView.FormsPlugin.UWP\CarouselView.FormsPlugin.UWP.xr.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\App.xbf
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\MainPage.xbf
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.UWP.xr.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.UWP.exe
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.UWP.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\resources.pri
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\AppxManifest.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Core\PunicaHealth.UWP.exe
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.UWP.build.appxrecipe
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CarouselView.FormsPlugin.Abstractions.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CarouselView.FormsPlugin.UWP.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CompositionDeviceHelper.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CompositionDeviceHelper.winmd
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\CompositionProToolkit.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\FluentValidation.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\System.Runtime.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Shadows.UWP.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Shadows.UWP.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Shadows.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Shadows.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Tabs.UWP.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Tabs.UWP.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Tabs.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.Tabs.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Sharpnado.TaskMonitor.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\SQLite-net.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\e_sqlite3.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\WeakEvent.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\WeakEvent.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xam.Plugin.TabView.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.dll
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\PunicaHealth.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\PunicaHealth.UWP.csprojAssemblyReference.cache
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\App.g.i.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\App.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\MainPage.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\App.xaml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\MainPage.xaml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\App.xbf
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\MainPage.xbf
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\PunicaHealth.UWP.csproj.CoreCompileInputs.cache
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\PunicaHealth.UWP.csproj.CopyComplete
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\CarouselView.FormsPlugin.UWP.pri.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\CompositionDeviceHelper.pri.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\CompositionProToolkit.pri.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\PunicaHealth.UWP.exe
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\PunicaHealth.UWP.pdb
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\priconfig.xml
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\resources.resfiles
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\pri.resfiles
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\qualifiers.txt
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\.winmd_cache\$CompositionDeviceHelper.winmd_637239255440000000.json
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214426760000000.json
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637112498540000000.json
+D:\_coding\GitHub\assignment-3-simgesengun\PunicaHealth\PunicaHealth.UWP\bin\x86\Debug\Newtonsoft.Json.dll

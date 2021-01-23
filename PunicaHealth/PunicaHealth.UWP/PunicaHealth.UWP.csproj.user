@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+    <AppIconSource>C:\Users\simge\Desktop\Icon1024.png</AppIconSource>
+    <BadgeLogoSource>C:\Users\simge\Desktop\Icon1024.png</BadgeLogoSource>
+    <LargeTileSource>C:\Users\simge\Desktop\Icon1024.png</LargeTileSource>
+    <WideTileSource>C:\Users\simge\Desktop\Icon1024.png</WideTileSource>
+    <PackageLogoSource>C:\Users\simge\Desktop\Icon1024.png</PackageLogoSource>
+    <MediumTileSource>C:\Users\simge\Desktop\Icon1024.png</MediumTileSource>
+    <SmallTileSource>C:\Users\simge\Desktop\Icon1024.png</SmallTileSource>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PunicaHealth.RegisterPage"
+             xmlns:vm="clr-namespace:PunicaHealth.ViewModel"
+             Title="">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="EntryFrame" TargetType="Frame">
+                <Setter Property="BackgroundColor" Value="White"/>
+                <Setter Property="BorderColor" Value="DarkGray"/>
+                <Setter Property="HeightRequest" Value="50"/>
+                <Setter Property="CornerRadius" Value="20"/>
+                <Setter Property="Padding" Value="0"/>
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+            </Style>
+            <Style x:Key="Entry" TargetType="Entry">
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"/>
+                <Setter Property="ClearButtonVisibility" Value="WhileEditing"/>
+                <Setter Property="IsSpellCheckEnabled" Value="False"/>
+            </Style>
+            <vm:BoolToIconConverter x:Key="BoolToIconConverter"/>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="30,70,30,70" Spacing="20" BackgroundColor="White">
+                <StackLayout.BindingContext>
+                    <vm:RegisterViewModel/>
+                </StackLayout.BindingContext>
+                <StackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="Center">
+                    <Label HorizontalTextAlignment="Center"
+                           Text="Register" FontSize="38" TextColor="Black"/>
+                    <Label HorizontalTextAlignment="Center"
+                           Text="Enter your details for your profile information"/>
+                </StackLayout>
+                <Frame Style="{StaticResource EntryFrame}">
+                    <StackLayout Orientation="Horizontal" Padding="15,0">
+                        <Entry Style="{StaticResource Entry}" Text="{Binding Email}"
+                               Keyboard="Email" Placeholder="Email"
+                               TextTransform="Lowercase" ReturnType="Next"/>
+                        <ImageButton x:Name="emailImg" BackgroundColor="Transparent"
+                                     HorizontalOptions="End" WidthRequest="35"
+                                     Source="{Binding isValid, Converter={StaticResource BoolToIconConverter}}"/>
+                    </StackLayout>
+                </Frame>
+                <Frame Style="{StaticResource EntryFrame}">
+                    <StackLayout Orientation="Horizontal" Padding="15,0">
+                        <Entry x:Name="passwordEntry" Style="{StaticResource Entry}" Text="{Binding Password}"
+                               IsPassword="true" Placeholder="Password"/>
+                        <ImageButton x:Name="passwordImg" BackgroundColor="Transparent"
+                                     HorizontalOptions="End" WidthRequest="35"
+                                     Source="password_hide.png" Clicked="passwordEye"/>
+                    </StackLayout>
+                </Frame>
+                <Frame Style="{StaticResource EntryFrame}" Padding="15,0">
+                    <Entry Style="{StaticResource Entry}" Text="{Binding Dob}"
+                           Placeholder="Date of Birth (dd/mm/yyyy)"
+                           ReturnType="Next"/>
+                </Frame>
+                <Frame Style="{StaticResource EntryFrame}" Padding="15,0">
+                    <Entry Style="{StaticResource Entry}" Text="{Binding Weight}"
+                           Keyboard="Numeric" Placeholder="Weight"
+                           ReturnType="Next"/>
+                </Frame>
+                <Frame Style="{StaticResource EntryFrame}" Padding="15,0">
+                    <Entry Style="{StaticResource Entry}" Text="{Binding Height}"
+                           Keyboard="Numeric" Placeholder="Height"
+                           ReturnType="Done"/>
+                </Frame>
+                <Button Text="REGISTER" TextColor="white" Command="{Binding RegisterCommand}"
+                            CornerRadius="23" HeightRequest="50"  BackgroundColor="{x:DynamicResource MainRed}"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
